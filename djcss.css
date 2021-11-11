@@ -1,0 +1,167 @@
+grid-container one {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
+
+grid-container two {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
+
+grid-container three {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
+
+grid-container four {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
+
+grid-container five {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
+
+grid-container six {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100vh;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "content";
+}
+.content {
+    width: 90%;
+    padding: 10px;
+    background-color: blue;
+    margin: 100px auto;
+    color: white;
+    grid-area: header;
+}
+
+.box{
+    width: 250px;
+    height: 300px;
+    background: red;
+}
+a:hover + div {
+    display: block;
+    color: green;
+    font-size: 25px;
+}
